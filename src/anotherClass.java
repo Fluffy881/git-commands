@@ -5,5 +5,6 @@ public class anotherClass {
         System.out.println("Nouvelle modification");
         System.out.println("for tags");
         System.out.println("cleanning");
+        System.out.println("cleanning le retour");
     }
 }
