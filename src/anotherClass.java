@@ -3,5 +3,6 @@ public class anotherClass {
         System.out.println("Conflict solved");
         System.out.println("Nouveau conflit resolu");
         System.out.println("Nouvelle modification");
+        System.out.println("for tags");
     }
 }
